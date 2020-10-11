@@ -1,0 +1,53 @@
+{
+	"artists": [{
+			"name": "Seen",
+			"crews": ["United Artists"],
+			"location": {
+				"city": "New York",
+				"country": "USA"
+			},
+			"active_since": "1973",
+			"external_sources": ["https://en.wikipedia.org/wiki/Seen_(artist)"]
+		},
+		{
+			"name": "Skeme",
+			"crews": ["TMT", "TDS", "INDS", "3YB"],
+			"location": {
+				"city": "New York",
+				"country": "USA"
+			},
+			"active_since": "1978",
+			"external_sources": []
+		},
+		{
+			"name": "Colorz",
+			"crews": ["VEP"],
+			"location": {
+				"city": "Paris",
+				"country": "FRA"
+			},
+			"active_since": "1987",
+			"external_sources": []
+		},
+		{
+			"name": "DOES",
+			"crews": ["LoveLetters"],
+			"location": {
+				"city": "Sittard",
+				"country": "NLD"
+			},
+			"active_since": "1997",
+			"external_sources": ["https://digitaldoes.com/about-does/"]
+		},
+		{
+			"name": "MADC",
+			"crews": ["Wallnuts", "Stick Up Kids"],
+			"location": {
+				"city": "Bautzen",
+				"country": "DEU"
+			},
+			"active_since": "1996",
+			"external_sources": ["https://madc.tv/"]
+		}
+	]
+}
