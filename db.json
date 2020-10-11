@@ -1,5 +1,6 @@
 {
 	"artists": [{
+			"id": "Seen",
 			"name": "Seen",
 			"crews": ["United Artists"],
 			"location": {
@@ -10,6 +11,7 @@
 			"external_sources": ["https://en.wikipedia.org/wiki/Seen_(artist)"]
 		},
 		{
+			"id": "Skeme",
 			"name": "Skeme",
 			"crews": ["TMT", "TDS", "INDS", "3YB"],
 			"location": {
@@ -20,6 +22,7 @@
 			"external_sources": []
 		},
 		{
+			"id": "Colorz",
 			"name": "Colorz",
 			"crews": ["VEP"],
 			"location": {
@@ -30,6 +33,7 @@
 			"external_sources": []
 		},
 		{
+			"id": "DOES",
 			"name": "DOES",
 			"crews": ["LoveLetters"],
 			"location": {
@@ -40,7 +44,8 @@
 			"external_sources": ["https://digitaldoes.com/about-does/"]
 		},
 		{
-			"name": "MADC",
+			"id": "MADC",
+			"name": "MAD C",
 			"crews": ["Wallnuts", "Stick Up Kids"],
 			"location": {
 				"city": "Bautzen",
