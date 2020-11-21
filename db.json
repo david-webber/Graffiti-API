@@ -53,6 +53,17 @@
 			},
 			"active_since": 1996,
 			"external_sources": ["https://madc.tv/"]
-		}
+		},
+		    {
+			"id": "sofles",
+			"name": "Sofles",
+			"crews": [],
+			"location": {
+				"city": "Brisbane",
+				"country": "AUS"
+			},
+			"active_since": 2000,
+			"external_sources": ["https://www.sofles.com/","https://www.instagram.com/sofles/"]
+		},
 	]
 }
