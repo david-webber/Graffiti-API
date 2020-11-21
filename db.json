@@ -57,7 +57,7 @@
 		    {
 			"id": "sofles",
 			"name": "Sofles",
-			"crews": [],
+			"crews": ["TMD"],
 			"location": {
 				"city": "Brisbane",
 				"country": "AUS"
