@@ -1,0 +1,35 @@
+{
+  "name": "graffiti-api",
+  "version": "1.0.0",
+  "description": "Graffiti Artists & Crew REST API",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/david-webber/Graffiti-API.git"
+  },
+  "keywords": [
+    "graffiti",
+    "api",
+    "graffiti-art",
+    "artists",
+    "crew",
+    "artist"
+  ],
+  "author": "david-webber",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/david-webber/Graffiti-API/issues"
+  },
+  "homepage": "https://github.com/david-webber/Graffiti-API#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.11.7"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.6"
+  }
+}
