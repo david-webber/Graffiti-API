@@ -1,0 +1,26 @@
+GET http://localhost:3005/artists
+
+###
+
+GET http://localhost:3005/artists/sofles
+
+###
+
+DELETE http://localhost:3005/artists/sofles
+
+
+###
+
+POST http://localhost:3005/artists
+Content-Type: application/json
+
+{
+  "name": "Sofles",
+  "crews": ["TMD"],
+  "location": {
+    "city": "Brisbane",
+		"country": "AT"
+  },
+  "active_since": 2000,
+  "external_sources": ["https://www.sofles.com/","https://www.instagram.com/sofles/"]
+}
