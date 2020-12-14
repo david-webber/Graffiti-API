@@ -1,0 +1,66 @@
+{
+	"artists": [
+		{
+			"name": "Sofles",
+			"crews": ["TMD"],
+			"location": {
+				"city": "Brisbane",
+				"country": "AT"
+			},
+			"active_since": 2000,
+			"external_sources": ["https://www.sofles.com/","https://www.instagram.com/sofles/"]
+		},
+		{
+			"name": "Seen",
+			"crews": ["United Artists"],
+			"location": {
+				"city": "New York",
+				"country": "US"
+			},
+			"active_since": 1973,
+			"external_sources": ["https://en.wikipedia.org/wiki/Seen_(artist)"]
+		},
+		{
+			"name": "Skeme",
+			"crews": ["TMT", "TDS", "INDS", "3YB"],
+			"location": {
+				"city": "New York",
+				"country": "US"
+			},
+			"active_since": 1978,
+			"external_sources": []
+		},
+		{
+			"name": "Colorz",
+			"crews": ["VEP"],
+			"location": {
+				"city": "Paris",
+				"country": "FR"
+			},
+			"active_since": 1987,
+			"external_sources": []
+		},
+		{
+			"id": "does",
+			"name": "DOES",
+			"crews": ["LoveLetters"],
+			"location": {
+				"city": "Sittard",
+				"country": "NL"
+			},
+			"active_since": 1997,
+			"external_sources": ["https://digitaldoes.com/about-does/"]
+		},
+		{
+			"id": "madc",
+			"name": "MAD C",
+			"crews": ["Wallnuts", "Stick Up Kids"],
+			"location": {
+				"city": "Bautzen",
+				"country": "DE"
+			},
+			"active_since": 1996,
+			"external_sources": ["https://madc.tv/"]
+		}
+	]
+}
